@@ -127,7 +127,7 @@ body {
   border: 2px dashed var(--primary-template-background);
   margin: 0 clamp(10px, 4vw, 50px) clamp(10px, 4vw, 50px);
   padding: 30px 20px 20px;
-  background: #f6f6ff;
+  background: #f6f2eb;
 }
 
 .cliboard-holder .clipboard-details {
