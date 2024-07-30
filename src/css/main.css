@@ -199,7 +199,8 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.accordion .accordion-body {
+.accordion .accordion-body,
+.accordion .accordion-item {
   background-color: #f6f2eb;
 }
 /*# sourceMappingURL=main.css.map */
