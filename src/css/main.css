@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 :root {
-  --generic-template-background: #f6f2eb;
+  --generic-template-background: #fff;
   --logo-width: 250px;
   --top-wrapper-space: 0;
   --primary-template-background: #04194c;
@@ -197,5 +197,9 @@ body {
 .accordion-button,
 .cliboard-holder * {
   font-family: "Roboto", sans-serif;
+}
+
+.accordion .accordion-body {
+  background-color: #f6f2eb;
 }
 /*# sourceMappingURL=main.css.map */
